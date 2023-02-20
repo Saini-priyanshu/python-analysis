@@ -1,7 +1,7 @@
 import pgzrun
 
-# music.play('ts')
-# music.set_volume(5)
+music.play('bgm')
+music.set_volume(5)
 
 b=Rect((50,50),(50,25))
 vx,vy=3,2
